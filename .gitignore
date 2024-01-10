@@ -1,0 +1,8 @@
+*.gguf
+__pycache__
+.venv
+*examples
+*diagram
+*tests
+*tmp
+*wordscloud_data
