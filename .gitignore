@@ -1,4 +1,5 @@
 *.gguf
+gguf
 __pycache__
 .venv
 *examples
